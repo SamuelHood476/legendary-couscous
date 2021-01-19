@@ -1,4 +1,2 @@
 # legendary-couscous
-Yes
-Rick-Rill troll
-Fake error webpage to rick-roll
+Fake error website to rick roll
